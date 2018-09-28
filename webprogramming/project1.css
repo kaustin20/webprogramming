@@ -1,0 +1,68 @@
+
+body {
+    background-color: gray;
+    
+}
+h2 {
+    color: orange;
+    margin-left: 40px;
+    text-align: center;
+    font-style: italic;
+    
+}
+div
+{
+    color: white;
+    margin: 2px;
+    font-size: 25px;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+    text-align: center;
+}
+h3 {
+    color: gold;
+    margin-left: 40px;
+    font-family: "Arial", Arial, serif;
+    font-style: underline;
+    font-size: 23pt;
+    
+}
+
+img{
+    
+    height: 200px;
+    width: 20%;
+}
+.gamescreen{
+    
+    width: 1000px;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gamescreen img{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+    font-style: georgian;
+    color:
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}

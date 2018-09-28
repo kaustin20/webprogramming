@@ -1,0 +1,65 @@
+.headings{
+	text-align: center;
+	font-family: gothic;
+	color: #A4A400;
+	background-color: #F0F0F0;
+}
+body{
+	font-family:Georgia;
+	background-color:#FFCC00;
+	color: #000000;
+}
+#title{
+	font-weight: bold;
+}
+.header{
+	font-weight: bold;
+}
+#b{
+	float:right;
+}
+h1{
+    
+    text-align: center;
+}
+.food{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.food img{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+table {
+    width:100%;
+}
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 20px;
+    text-align: left;
+}
+table.names tr:nth-child(even) {
+    background-color: #CC9933;
+    color: white
+}
+table.names tr:nth-child(odd) {
+    background-color:#CC9933;
+    color: white
+}
+table.names th {
+    background-color: #003366;
+    color: white
+    font-style: oblique;
+}
